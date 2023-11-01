@@ -15,5 +15,8 @@ The Sakila Database holds information about a company that rents movie DVDs. For
 3. Find out how the two stores compare in their count of rental orders.
 4. Find out top 10 paying customers, and their payment amount on a monthly basis.
 
+## Files
+_All files used for the project have been added to this repository_
+
 ## Credits
 **Udacity**
